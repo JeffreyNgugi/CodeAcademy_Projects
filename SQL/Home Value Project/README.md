@@ -3,7 +3,7 @@
 
 ## Data
 
-I couldn't add the data csv file as GitHub limits the size of files allowed in repositories. However, be sure to find the data [here] (https://drive.google.com/file/d/1rydAepWim_Pi0Krh1-RoJjJjDKwc4Gpv/view)
+I couldn't add the data csv file as GitHub limits the size of files allowed in repositories. However, be sure to find the data on the following link <https://drive.google.com/file/d/1rydAepWim_Pi0Krh1-RoJjJjDKwc4Gpv/view>
 
 ## Objective:
 
