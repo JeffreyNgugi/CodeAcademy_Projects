@@ -46,7 +46,7 @@ ON query1.citymarketid_1 = query2.citymarketid_1
 AND query1.citymarketid_2 = query2.citymarketid_2
 ORDER BY 5 DESC;*/
 
-/*WITH query1 AS(
+WITH query1 AS(
 SELECT Year,citymarketid_1,citymarketid_2,city1,city2,fare
 FROM airfare_data
 WHERE Year = 1997), query2 AS(
