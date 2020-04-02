@@ -8,6 +8,6 @@ Welcome to Part 2 of the Twitch Project. In this part of the project, you will b
 - [x] [`Pie Chart: Stream Viewers’ Locations`](Pie Chart: Stream Viewers’ Locations) 
 - [x] [`Line Graph: Time Series Analysis`](Line Graph: Time Series Analysis) 
 
-The SQL queries were converted to csv files named; LOL_viewers, popular_games and viewers_time. To find out more of how they were created ['Click here']('https://github.com/JeffreyNgugi/CodeAcademy_Projects/tree/master/SQL/Twitch%20Project')
+The SQL queries were converted to csv files named; LOL_viewers, popular_games and viewers_time. To find out more of how they were created [Click here]('https://github.com/JeffreyNgugi/CodeAcademy_Projects/tree/master/SQL/Twitch%20Project')
 
 Thank you for CodeAcademy and Twitch for this partnership:
